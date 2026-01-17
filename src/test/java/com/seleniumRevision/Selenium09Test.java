@@ -31,7 +31,7 @@ public class Selenium09Test {
        // driver.quit();
     }
 
-    @Test
+    @Test (groups="QA")
     @Description("Verify the Invalid username")
     public void invalidUsername() throws InterruptedException {
         driver = new ChromeDriver();
