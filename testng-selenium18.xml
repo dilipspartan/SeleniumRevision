@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Dilip/IdeaProjects/SeleniumRevision">
         <classes>
-            <class name="com.seleniumRevision.Day2.Selenium09Test">
+            <class name="com.seleniumRevision.Day3.Selenium18">
 
             </class>
         </classes>
